@@ -1,3 +1,7 @@
+<p align="center"><a href="http://philipjhc.us/"><img width="80%" src="https://github.com/Jianghuchengphilip/Jianghuchengphilip/blob/main/assets/gh-readme-header.png" /></a></p>
+
+<br />
+
 I'm a self-taught passionate FrontEnd developer from China
 
 **About me**
