@@ -19,6 +19,6 @@ I'm a self-taught passionate FrontEnd developer from China
   <img align="right" alt="Philipjhc | Twitter" width="21px" src="https://github.com/Jianghuchengphilip/Jianghuchengphilip/blob/main/assets/twitter.svg" />
 </a>
 <a href="https://space.bilibili.com/51237869">
-  <img align="right" alt="Philipjhc | Twitter" width="21px" src="http://www.w3.org/2000/svg" />
+  <img align="right" alt="Philipjhc | Bilibili" width="21px" src="https://cdn.jsdelivr.net/gh/Jianghuchengphilip/Jianghuchengphilip@main/assets/bilil.png" />
 </a>
 
