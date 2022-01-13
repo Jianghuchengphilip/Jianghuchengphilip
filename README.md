@@ -1,7 +1,3 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jianghuchengphilip&show_icons=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jianghuchengphilip)](https://github.com/anuraghazra/github-readme-stats)
-
 I'm a self-taught passionate FrontEnd developer from China
 
 **About me**
@@ -20,11 +16,11 @@ I'm a self-taught passionate FrontEnd developer from China
 #### Top Repositories
 
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=buefy" />
+<a href="https://github.com/Jianghuchengphilip/Generate-NFT">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Jianghuchengphilip&repo=Generate-NFT&theme=buefy" />
 </a>
-<a href="https://github.com/anuraghazra/anuraghazra.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=anuraghazra.github.io&theme=buefy" />
+<a href="https://github.com/Jianghuchengphilip/Master-Art-Punk">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Jianghuchengphilip&repo=Master-Art-Punk&theme=buefy" />
 </a>
 
 <br />
