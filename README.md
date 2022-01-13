@@ -19,9 +19,7 @@ I'm a self-taught passionate FrontEnd developer from China
 <a href="https://github.com/Jianghuchengphilip/Generate-NFT">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Jianghuchengphilip&repo=Generate-NFT&theme=buefy" />
 </a>
-<a href="https://github.com/Jianghuchengphilip/Master-Art-Punk">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Jianghuchengphilip&repo=Master-Art-Punk&theme=buefy" />
-</a>
+
 
 <br />
 <br />
