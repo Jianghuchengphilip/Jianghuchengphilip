@@ -15,7 +15,7 @@ I'm a self-taught passionate FrontEnd developer from China
 <br />
 <br />
 
-<a href="https://twitter.com/anuraghazru">
-  <img align="right" alt="Anurag Hazra | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
+<a href="https://twitter.com/PhilipJhc03">
+  <img align="right" alt="Philipjhc | Twitter" width="21px" src="https://github.com/Jianghuchengphilip/Jianghuchengphilip/blob/main/assets/twitter.svg" />
 </a>
 
