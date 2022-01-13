@@ -20,9 +20,9 @@ I'm a self-taught passionate FrontEnd developer from China
 <br />
 
 <a href="https://twitter.com/PhilipJhc03">
-  <img align="right" alt="Philipjhc | Twitter" width="21px" src="https://github.com/Jianghuchengphilip/Jianghuchengphilip/blob/main/assets/twitter.svg" />
+  <img align="center" alt="Philipjhc | Twitter" width="30px" src="https://github.com/Jianghuchengphilip/Jianghuchengphilip/blob/main/assets/twitter.svg" />
 </a>
 <a href="https://space.bilibili.com/51237869">
-  <img align="right" alt="Philipjhc | Bilibili" width="21px" src="https://cdn.jsdelivr.net/gh/Jianghuchengphilip/Jianghuchengphilip@main/assets/bilil.png" />
+  <img align="center" alt="Philipjhc | Bilibili" width="30px" src="https://cdn.jsdelivr.net/gh/Jianghuchengphilip/Jianghuchengphilip@main/assets/bilil.png" />
 </a>
 
