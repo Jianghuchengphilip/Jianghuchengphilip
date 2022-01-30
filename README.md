@@ -31,5 +31,5 @@ I'm a self-taught passionate FrontEnd developer from China
 </a>
 
 <div href="#">
-  <img align="center" src="https://metrics.lecoq.io/Jianghuchengphilip?template=terminal" />
+  <img align="center" width=800 height=500 src="https://metrics.lecoq.io/Jianghuchengphilip?template=terminal" />
 </div>
