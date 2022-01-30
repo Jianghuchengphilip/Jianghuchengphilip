@@ -29,3 +29,7 @@ I'm a self-taught passionate FrontEnd developer from China
 <a href="http://philipjhc.us/">
   <img align="center" alt="Philipjhc | Blog" width="21px" src="https://cdn.jsdelivr.net/gh/Jianghuchengphilip/Jianghuchengphilip.github.io@master/images/favicon32.ico" />
 </a>
+
+<div href="#">
+  <img align="center" src="https://metrics.lecoq.io/Jianghuchengphilip?template=terminal" />
+</div>
