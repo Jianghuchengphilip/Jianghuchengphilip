@@ -4,7 +4,7 @@
 
 I'm a self-taught passionate FrontEnd developer from China
 
-## 👋 **About me**
+## 👋 **About me**  ![](https://visitor-badge.glitch.me/badge?page_id=Jianghuchengphilip.readme)
 
 - 💼 My dream is to become a big Data Engineer at Google
 
@@ -45,4 +45,3 @@ I'm a self-taught passionate FrontEnd developer from China
   <img align="center" alt="Philipjhc | Blog" width="21px" src="https://cdn.jsdelivr.net/gh/Jianghuchengphilip/Jianghuchengphilip.github.io@master/images/favicon32.ico" />
 </a>
 
-![](https://visitor-badge.glitch.me/badge?page_id=Jianghuchengphilip.readme)
