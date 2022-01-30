@@ -20,6 +20,7 @@ I'm a self-taught passionate FrontEnd developer from China
 ![](https://img.shields.io/badge/-Linux-fcc624?style=flat-square&logo=Linux&logoColor=fff)
 ![](https://img.shields.io/badge/-Python-3776ab?style=flat-square&logo=Python&logoColor=fff)
 
+## 🚉 **Github Stats**
 
 | <a href="https://github.com/Jianghuchengphilip"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Jianghuchengphilip&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/Jianghuchengphilip"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jianghuchengphilip&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
