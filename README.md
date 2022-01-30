@@ -19,7 +19,7 @@ I'm a self-taught passionate FrontEnd developer from China
 ![](https://img.shields.io/badge/-Git-f05032?style=flat-square&logo=git&logoColor=fff)
 ![](https://img.shields.io/badge/-Linux-fcc624?style=flat-square&logo=Linux&logoColor=fff)
 ![](https://img.shields.io/badge/-Python-3776ab?style=flat-square&logo=Python&logoColor=fff)
-![](https://img.shields.io/badge/-C-yellow?style=flat-square&logo=c&logoColor=fff)
+![](https://img.shields.io/badge/-C-brightgreen?style=flat-square&logo=c&logoColor=fff)
 
 ## 🚉 **Github Stats**
 
