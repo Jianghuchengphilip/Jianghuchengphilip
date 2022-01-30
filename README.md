@@ -23,6 +23,7 @@ I'm a self-taught passionate FrontEnd developer from China
 ![](https://img.shields.io/badge/-C++-green?style=flat-square&logo=c&logoColor=fff)
 ![](https://img.shields.io/badge/-Hadoop-blueviolet?style=flat-square&logo=apachehadoop&logoColor=fff)
 ![](https://img.shields.io/badge/-Hive-blue?style=flat-square&logo=apachehive&logoColor=fff)
+![](https://img.shields.io/badge/-Pytorch-ff69b4?style=flat-square&logo=pytorch&logoColor=fff)
 
 ## 🚉 **Github Stats**
 
