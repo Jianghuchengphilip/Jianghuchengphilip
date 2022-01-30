@@ -24,7 +24,7 @@ I'm a self-taught passionate FrontEnd developer from China
 ![](https://img.shields.io/badge/-Hadoop-blueviolet?style=flat-square&logo=apachehadoop&logoColor=fff)
 ![](https://img.shields.io/badge/-Hive-blue?style=flat-square&logo=apachehive&logoColor=fff)
 ![](https://img.shields.io/badge/-Pytorch-ff69b4?style=flat-square&logo=pytorch&logoColor=fff)
-
+![](https://img.shields.io/badge/-Tensorflow-important?style=flat-square&logo=tensorflow&logoColor=fff)
 ## 🚉 **Github Stats**
 
 | <a href="https://github.com/Jianghuchengphilip"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Jianghuchengphilip&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/Jianghuchengphilip"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jianghuchengphilip&layout=compact&theme=buefy&hide_border=true" /></a> |
