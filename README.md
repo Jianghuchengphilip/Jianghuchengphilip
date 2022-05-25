@@ -2,11 +2,11 @@
 
 <br />
 
-I'm a self-taught passionate FrontEnd developer from China.
+I'm a self-taught passionate Blockchain Engineer from China.
 
 ## 👋 **About me**  
 
-- 💼 My dream is to become a big Data Engineer at Google
+- 💼 My dream is to become a big Data Engineer or Web3 Engineer at Google
 
 - 📈 Built Generate-NFT, Master-Art-Punk  and more on GitHub
 
