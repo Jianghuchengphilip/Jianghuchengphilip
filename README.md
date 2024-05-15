@@ -6,11 +6,7 @@ I'm a self-taught passionate Blockchain Engineer from China.
 
 ## 👋 **About me**  
 
-- 💼 My dream is to become a big Data Engineer or Web3 Engineer at Google
-
 - 📈 Built Generate-NFT, Master-Art-Punk  and more on GitHub
-
-- ❤️ I like computer vision and data science
 
 - 💬 Ask me about anything [here](https://github.com/Jianghuchengphilip/Jianghuchengphilip/issues)
 
@@ -28,8 +24,7 @@ I'm a self-taught passionate Blockchain Engineer from China.
 ![](https://img.shields.io/badge/-Spark-9cf?style=flat-square&logo=apachespark&logoColor=fff)
 
 ## 🚉 **Github Stats** ![](https://visitor-badge.glitch.me/badge?page_id=Jianghuchengphilip.readme&left_color=blue&right_color=red)
-
-| <a href="https://github.com/Jianghuchengphilip"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Jianghuchengphilip&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/Jianghuchengphilip"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jianghuchengphilip&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/Jianghuchengphilip"><img  src="https://github-readme-stats.vercel.app/api?username=Jianghuchengphilip&show_icons=true&locale=en" alt="Jianghuchengphilip" /></a> | <a href="https://github.com/Jianghuchengphilip"><img  src="https://github-readme-streak-stats.herokuapp.com/?user=Jianghuchengphilip&" alt="Jianghuchengphilip" /></a> |
 | ------------- | ------------- |
 <br />
 <br />
