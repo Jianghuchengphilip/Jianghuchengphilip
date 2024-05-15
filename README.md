@@ -1,7 +1,7 @@
 <p align="center"><a href="http://philipjhc.us/"><img width="80%" src="https://github.com/Jianghuchengphilip/Jianghuchengphilip/blob/main/assets/gh-readme-header.png" /></a></p>
 
 <br />
-
+<img src="https://komarev.com/ghpvc/?username=Jianghuchengphilip&label=Profile%20views&color=0e75b6&style=flat" alt="Jianghuchengphilip" />
 I'm a self-taught passionate Blockchain Engineer from China.
 
 ## 👋 **About me**  
