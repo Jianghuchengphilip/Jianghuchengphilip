@@ -36,7 +36,7 @@ I'm a self-taught passionate Blockchain Engineer from China.
   <img align="center" alt="Philipjhc | Bilibili" width="21px" src="https://cdn.jsdelivr.net/gh/Jianghuchengphilip/Jianghuchengphilip@main/assets/bilil.png" />
 </a>
 
-<a href="http://philipjhc.us/">
+<a href="https://jianghuchengphilip.github.io/">
   <img align="center" alt="Philipjhc | Blog" width="21px" src="https://cdn.jsdelivr.net/gh/Jianghuchengphilip/Jianghuchengphilip.github.io@master/images/favicon32.ico" />
 </a>
 
