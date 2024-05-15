@@ -5,8 +5,9 @@
 I'm a self-taught passionate Blockchain Engineer from China.
 
 ## 👋 **About me**  
+- 💼 My research field in recent years has been intelligent rehabilitation engineering
 
-- 📈 Built Generate-NFT, Master-Art-Punk  and more on GitHub
+- ❤️ Built Generate-NFT , Master-Art-Punk and more on GitHub
 
 - 💬 Ask me about anything [here](https://github.com/Jianghuchengphilip/Jianghuchengphilip/issues)
 
